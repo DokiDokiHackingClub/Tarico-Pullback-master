@@ -1,0 +1,38 @@
+{
+  "required": true,
+  "package": "dev.tarico.injection.mixins",
+  "refmap": "mixins.tarico.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "IAccessorMinecraft",
+    "IAccessorNetHandlerPlayClient",
+    "IRenderManager",
+    "MixinBlock",
+    "MixinBlockGrass",
+    "MixinBlockModelRenderer",
+    "MixinContainerPlayer",
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGui",
+    "MixinGuiChat",
+    "MixinGuiDownloadTerrain",
+    "MixinGuiIngame",
+    "MixinGuiNewChat",
+    "MixinGuiScreen",
+    "MixinGuiSpectator",
+    "MixinMinecraft",
+    "MixinModelBiped",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinRenderPlayer",
+    "MixinWorldRenderer"
+  ],
+  "client": [
+    "MixinItemRenderer",
+    "MixinRender",
+    "MixinRenderEntityItem",
+    "MixinRendererLivingEntity"
+  ]
+}

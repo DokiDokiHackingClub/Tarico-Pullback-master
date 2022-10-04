@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "tarico",
+    "name": "Tarico",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://tarico.tk",
+    "updateUrl": "",
+    "authorList": ["Unknown"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
